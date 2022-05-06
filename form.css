@@ -1,0 +1,16 @@
+.E_form{
+    display:flex;
+    width:50%;
+    float:left;
+}
+.F_form{
+        padding:20px;
+}
+input{
+    border:none;
+    border-bottom: 1px dashed black;
+}
+.In{
+    border: none;
+    border-bottom: 1px dashed black;
+}
